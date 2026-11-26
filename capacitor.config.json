@@ -1,0 +1,6 @@
+{
+  "appId": "pe.mamays.app",
+  "appName": "MAMAYS",
+  "webDir": "dist",
+  "android": { "backgroundColor": "#A3173B" }
+}
